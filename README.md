@@ -22,7 +22,7 @@
 # Visual Search
 ![alt text](https://github.com/yiiigww/Computer-Vision/blob/master/Visual%20Search/im6.jpg)
 ![alt text](https://github.com/yiiigww/Computer-Vision/blob/master/Visual%20Search/im10.jpg)
-# Face Setection
+# Face Detection
 ![alt text](https://github.com/yiiigww/Computer-Vision/blob/master/Face%20Detection/class1.jpg)
 ![alt text](https://github.com/yiiigww/Computer-Vision/blob/master/Face%20Detection/class2.jpg)
 ![alt text](https://github.com/yiiigww/Computer-Vision/blob/master/Face%20Detection/class3.jpg)
